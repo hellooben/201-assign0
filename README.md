@@ -2,13 +2,14 @@
 The first project for my CS201 class, Data Structures and Algorithms. 
 It contains classes and headers for a singly linked list, doubly linked list, stack, and queue, as well as a makefile.
 
-### Header/Class Files are:
+### Header/Class Files I wrote are:
+  - integer.h/integer.c
   - sll.h/sll.c
   - dll.h/sll.c
   - stack.h/stack.c
   - queue.h/queue.c
   
-Any files other than these, and the makefile, are test files. You may update the makefile to run different tests as you please.
+These classes work with any generic data type. The INTEGER/REAL/STRING classes are used to test integer, real, and string values. Files such as sll-0-0.c are test files.
 
 ### Instructions:
 
